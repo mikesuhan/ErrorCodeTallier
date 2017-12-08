@@ -1,0 +1,6 @@
+[AE],article_error
+[RO],run_on_sentence
+[WF],word_form_error
+[VT],verb_tense_error
+[PL],plural_error
+[SVA],3rd_person_error
